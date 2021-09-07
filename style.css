@@ -1,0 +1,108 @@
+.modifpart1{
+  background-color: #043d5b;
+  padding: 1%;
+  position: fixed;
+  z-index: 20;
+
+}
+
+.part1 {
+  background-image: url(images/baniere.jpg);
+  background-repeat: no-repeat;
+  padding-top: 10%;
+  background-size: cover;
+  background-position: center;
+  min-height: 100%;
+  min-width: 100%;
+  
+}
+.menu{
+	margin-left: -20%;
+}
+
+.nav-item a {
+  text-decoration: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+
+}
+ .logo {
+  font-family: Sitka Subheadin Blod ;
+  color: #fff;
+}
+#chiffre{
+	font-family: 'Georgia';
+}
+header ul li a : hover{
+	color: #e34b2a;
+}
+h1{
+	font-family: Sitka Subheadin Blod ;
+  	color: #fff;
+}#sous-titre{
+	font-family: Sitka Subheadin Blod ;
+  	color: #fff;
+  	opacity: 70%;
+}
+#register {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: white;
+  border-radius: 25px;
+  padding-left: 60px;
+  padding-right: 60px;
+  background-color: #fc8f44;
+
+}
+.part2{
+	background-color: #edf4f8;
+	margin-top: -0.5%;
+}
+.font{
+	font-family: Sitka Subheadin Blod ;
+}
+.fontpart2-second{
+	opacity: 70%;
+	
+}
+.fontpart3{
+	text-align: center;
+}
+
+.part5{
+	background-color: #043d5b;
+}
+.email{
+	width: 100%;
+	border-radius: 25%;
+}
+.part6{
+	background-color: #e76e33;
+}
+.fontpart6{
+	font-family: Lucida Fax;
+	font-style: italic;
+	color: white;
+}
+.guillemets{
+	opacity: 70%;
+}
+.Anthony{
+	font-family: Arial;
+	color: white;
+}
+footer{
+	background-color: #272727;
+}
+.icon{
+	opacity: 70%;
+}
+.trait{
+	border-bottom: solid 1px white;
+	width: 100%;
+	height: 0.1%;
+}
+.fontfooter{
+	color: white;
+	font-size: 12px;
+}
